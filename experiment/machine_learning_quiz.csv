@@ -1,0 +1,6 @@
+MCQ,Options,Correct Answer
+What was the first self-learning program developed in the early 1950s?,a: AlphaGo | b: Deep Belief Networks | c: Checkers program by Arthur Samuel | d: Perceptron by Frank Rosenblatt,c
+Which algorithm marked the beginning of the 'deep learning' era in 2006?,a: Support Vector Machines | b: Deep Belief Networks | c: Random Forests | d: Nearest Neighbor Algorithm,b
+What is the primary focus of supervised learning in machine learning?,a: Discovering patterns without labels | b: Training algorithms on labeled data | c: Learning from rewards and penalties | d: Adapting to scenarios with limited labels,b
+Which of the following is NOT a key component of an ML system?,a: Data preprocessing | b: Feature engineering | c: Quantum computing | d: Hyperparameter tuning,c
+Which fields are essential for the development of machine learning systems?,a: Mathematics and statistics | b: Philosophy and art | c: Biology and chemistry | d: History and geography,a
